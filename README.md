@@ -2,11 +2,11 @@ Shin Yamagami
 
 Finished
 
-1.QuickSort
+1. QuickSort
 
-2.BinarySearch
+2. BinarySearch
 
-3.MergeSort
+3. MergeSort
 
 Not finished
 
